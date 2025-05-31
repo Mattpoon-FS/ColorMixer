@@ -56,12 +56,16 @@ Loss = || TargetColor - MixedColor ||²
 本项目依赖于以下 Python 包：
 
 pip install numpy scipy
+
 Tkinter 图形界面是 Python 的标准库，通常已预安装。
 ​
 ## 🚀 如何运行
 克隆项目并运行主程序：
+
 git clone https://github.com/yourname/ColorMixer.git
+
 cd ColorMixer
+
 python main.py
 
 ## 📝 色板文件格式
